@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OtpVerification</string>
+    <string name="errorOTP">error otp</string>
+</resources>
